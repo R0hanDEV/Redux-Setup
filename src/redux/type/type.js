@@ -4,4 +4,9 @@ export const Types = {
   AddTodo: "AddTodo",
   setName: "setName",
   setAge: "setName",
+
+  // thunk api
+  fetchRequest: "fetchRequest",
+  fetchSuccess: "fetchSuccess",
+  fetchError: "fetchError",
 };
